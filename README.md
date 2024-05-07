@@ -1,5 +1,3 @@
-old bird audio mod, for friends
+removes cry sounds from old bird
 
-* voice by: armiac
-* art by: aguaguatboop
-* worker: just-ice
+
