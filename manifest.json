@@ -1,6 +1,6 @@
 {
   "name": "NoCryBabies",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/bmatusiak/NoCryBabies",
   "description": "removes cry sounds from old bird",
   "dependencies": [
